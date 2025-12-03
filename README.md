@@ -1,1 +1,0 @@
-# terminal-shoe-ordering-system
